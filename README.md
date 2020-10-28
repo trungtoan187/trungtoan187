@@ -1,4 +1,5 @@
-###  the glorious future 
+### Hi, I'm Toan 👋
+the glorious future 
 
 <!--
 **trungtoan187/trungtoan187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Twitter Follow](https://img.shields.io/facebook/follow/adamwarlock5522?label=Follow&style=social)](https://facebook.com/adamwarlock5522)
